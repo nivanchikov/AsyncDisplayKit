@@ -8,8 +8,8 @@
  *
  */
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
-#import <AsyncDisplayKit/ASRelativeSize.h>
+#import "ASLayoutSpec.h"
+#import "ASRelativeSize.h"
 
 /**
  * A layout spec that positions children at fixed positions.

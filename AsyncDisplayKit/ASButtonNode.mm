@@ -8,7 +8,7 @@
 
 #import "ASButtonNode.h"
 
-#import <AsyncDisplayKit/ASThread.h>
+#import "ASThread.h"
 
 @interface ASButtonNode ()
 {

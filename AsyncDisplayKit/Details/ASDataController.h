@@ -7,8 +7,8 @@
  */
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASDealloc2MainObject.h>
-#import <AsyncDisplayKit/ASDimension.h>
+#import "ASDealloc2MainObject.h"
+#import "ASDimension.h"
 #import "ASFlowLayoutController.h"
 
 @class ASCellNode;

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <AsyncDisplayKit/ASDimension.h>
+#import "ASDimension.h"
 
 @class ASCollectionView;
 @protocol ASCollectionViewDelegate;

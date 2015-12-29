@@ -9,7 +9,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <AsyncDisplayKit/ASLayoutSpec.h>
+#import "ASLayoutSpec.h"
 
 @protocol ASLayoutable;
 

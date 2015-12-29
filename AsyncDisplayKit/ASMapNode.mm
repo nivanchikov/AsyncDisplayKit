@@ -7,9 +7,9 @@
  */
 
 #import "ASMapNode.h"
-#import <AsyncDisplayKit/ASInsetLayoutSpec.h>
-#import <AsyncDisplayKit/ASCenterLayoutSpec.h>
-#import <AsyncDisplayKit/ASThread.h>
+#import "ASInsetLayoutSpec.h"
+#import "ASCenterLayoutSpec.h"
+#import "ASThread.h"
 
 @interface ASMapNode()
 {

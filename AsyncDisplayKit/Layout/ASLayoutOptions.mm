@@ -10,9 +10,9 @@
 
 #import "ASLayoutOptions.h"
 
-#import <AsyncDisplayKit/ASAssert.h>
-#import <AsyncDisplayKit/ASThread.h>
-#import <AsyncDisplayKit/ASTextNode.h>
+#import "ASAssert.h"
+#import "ASThread.h"
+#import "ASTextNode.h"
 #import "ASInternalHelpers.h"
 
 @interface ASLayoutOptions()

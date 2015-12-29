@@ -6,7 +6,7 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
-#import <AsyncDisplayKit/ASBasicImageDownloader.h>
+#import "ASBasicImageDownloader.h"
 #import "ASBasicImageDownloaderInternal.h"
 
 #import <OCMock/OCMock.h>

@@ -8,7 +8,7 @@
  *
  */
 
-#import <AsyncDisplayKit/ASRelativeSize.h>
+#import "ASRelativeSize.h"
 
 /**
  *  Layout options that can be defined for an ASLayoutable being added to a ASStaticLayoutSpec. 

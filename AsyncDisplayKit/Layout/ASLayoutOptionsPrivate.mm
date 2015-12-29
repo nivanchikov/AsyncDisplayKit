@@ -9,7 +9,7 @@
  */
 
 #import "ASLayoutOptionsPrivate.h"
-#import <AsyncDisplayKit/ASDisplayNodeInternal.h>
+#import "ASDisplayNodeInternal.h"
 #import "ASThread.h"
 
 
